@@ -14,3 +14,8 @@ Illustrations to my understanding of design patterns
 
 - **Feynman** technique
 - [Whiteboard](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app) on windows for illustrations
+
+## Prerequisites
+
+- Understanding of basics Object Oriented Programming
+- ability to read UML Diagrams
