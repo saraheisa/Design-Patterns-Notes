@@ -1,4 +1,4 @@
-# My study notes for Design patterns with an Implementation using Java & JS
+# My study notes for Design patterns with Implementation using Java & JS
 
 Illustrations to my understanding of design patterns
 
