@@ -8,6 +8,7 @@ Illustrations to my understanding of design patterns
 - Design Patterns: Gang of four *book*
 - Head First: Design Patterns *book*
 - Learning JavaScript Design Patterns *book*
+- A lot of research *mostly on stackoverflow ♥* 
 
 ## Methods
 
